@@ -156,7 +156,7 @@ window.PORTFOLIO = {
     },
     {
       name: "Echo Path",
-      featured: false,
+      featured: true,
       hue: 200,
       tagline:
         "A memory and precision game focused on tracing paths from short-term recall.",
@@ -185,10 +185,11 @@ window.PORTFOLIO = {
           url: "https://github.com/jeetchauhan123/Echo-Paths",
         },
       ],
+      image: "media/echo-path.png",
     },
     {
       name: "Orbital",
-      featured: true,
+      featured: false,
       hue: 30,
       tagline:
         "A polished orbital survival game built with AI-assisted development.",
