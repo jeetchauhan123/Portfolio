@@ -161,9 +161,8 @@ window.PORTFOLIO = {
       tagline:
         "A memory and precision game focused on tracing paths from short-term recall.",
       description:
-        "Echo Path is a browser-based memory and precision game where players watch a path draw itself, then recreate it as accurately as possible from memory. The game tests spatial memory, hand control, and focus through clean visuals and immediate feedback. It was developed as part of rapid prototyping and AI-assisted game design experiments.",
+        "Echo Path is a browser-based memory and precision game where players watch a path draw itself, then recreate it as accurately as possible from memory. It was developed as part of rapid prototyping and AI-assisted game design development.",
       highlights: [
-        "Watch a path appear, then redraw it from memory with accuracy-based scoring.",
         "Progressive difficulty that gradually increases path complexity.",
         "Clean, distraction-free interface designed for both desktop and mobile.",
         "Built with a strong focus on feel, feedback, and simple but engaging mechanics.",
