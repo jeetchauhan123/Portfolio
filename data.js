@@ -127,6 +127,98 @@ window.PORTFOLIO = {
       image: "media/urbanlux.webp",
     },
     {
+      name: "Clip Tycoon",
+      featured: false,
+      hue: 25,
+      tagline:
+        "A business simulation game where a simple clip-making operation grows into an automated enterprise.",
+      description:
+        "Clip Tycoon challenges players to build a profitable clip-making business from scratch. Players manufacture products, manage supplies and market prices, recruit a team, and gradually automate daily operations. With upgradeable employees, multiple difficulty modes, and a debt system that can threaten the entire business, every decision affects the path to growth.",
+      highlights: [
+        "Manage production, raw materials, inventory, transport capacity, and sales.",
+        "Adjust product prices to balance customer demand and revenue.",
+        "Recruit and upgrade employees to expand production and automate business operations.",
+        "Invest in upgrades while managing wages, loans, interest, and bankruptcy risks.",
+        "Choose between three difficulty modes and track progress through achievements and statistics.",
+        "Save game progress in the browser and continue building the business later.",
+      ],
+      tags: ["HTML5", "CSS3", "JavaScript", "Game Logic", "localStorage"],
+      links: [
+        {
+          label: "Play Game",
+          url: "https://clip-tycoon.netlify.app/",
+        },
+        {
+          label: "GitHub",
+          url: "https://github.com/jeetchauhan123/Clip-Tycoon",
+        },
+      ],
+    },
+    {
+      name: "Echo Path",
+      featured: false,
+      hue: 200,
+      tagline:
+        "A memory and precision game focused on tracing paths from short-term recall.",
+      description:
+        "Echo Path is a browser-based memory and precision game where players watch a path draw itself, then recreate it as accurately as possible from memory. The game tests spatial memory, hand control, and focus through clean visuals and immediate feedback. It was developed as part of rapid prototyping and AI-assisted game design experiments.",
+      highlights: [
+        "Watch a path appear, then redraw it from memory with accuracy-based scoring.",
+        "Progressive difficulty that gradually increases path complexity.",
+        "Clean, distraction-free interface designed for both desktop and mobile.",
+        "Built with a strong focus on feel, feedback, and simple but engaging mechanics.",
+        "Developed using AI-assisted workflows for faster iteration and refinement.",
+      ],
+      tags: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Canvas",
+        "Game Design",
+        "AI-Assisted Development",
+        "Vibe Coding",
+      ],
+      links: [
+        { label: "Play Game", url: "https://echo-paths-pearl.vercel.app/" },
+        {
+          label: "GitHub",
+          url: "https://github.com/jeetchauhan123/Echo-Paths",
+        },
+      ],
+    },
+    {
+      name: "Orbital",
+      featured: true,
+      hue: 30,
+      tagline:
+        "A polished orbital survival game built with AI-assisted development.",
+      description:
+        "Orbital is a minimal yet addictive browser game where you control a glowing planet locked in continuous orbit around a sun. The only control is changing the orbit radius by dragging anywhere on the screen. Players dodge hollow geometric threats, collect power-ups, face escalating bosses, and compete for high scores across three difficulty modes. The entire game was designed and iterated rapidly using AI-assisted development (vibe coding), focusing on clean visuals, tight controls, and a strong 'one more try' loop.",
+      highlights: [
+        "Unique one-control gameplay — drag anywhere on the screen to change orbit radius.",
+        "Hollow glowing geometric threats with distinct sizes, speeds, and homing behaviour.",
+        "Power-ups: Shield, Score Multiplier, Rapid Fire, and Homing Missiles.",
+        "Boss encounters with soft difficulty resets after each boss for better pacing.",
+        "Three carefully balanced difficulty modes (Easy / Medium / Hard).",
+        "Fully mobile-friendly single-file HTML5 Canvas game with local high-score saving.",
+        "Built and refined through rapid AI-assisted iteration (vibe coding).",
+      ],
+      tags: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Canvas",
+        "Game Design",
+        "localStorage",
+        "AI-Assisted Development",
+        "Vibe Coding",
+      ],
+      links: [
+        { label: "Play Game", url: "https://orbital-world-three.vercel.app/" },
+        { label: "GitHub", url: "https://github.com/jeetchauhan123/Orbital" },
+      ],
+    },
+    {
       name: "Velvet Pour",
       featured: false,
       hue: 20,
@@ -274,10 +366,12 @@ window.PORTFOLIO = {
         "Added a footer to complete the page layout.",
       ],
       tags: ["HTML5", "CSS3", "Flexbox", "Responsive Layouts"],
-      links: [{
+      links: [
+        {
           label: "GitHub",
           url: "https://github.com/jeetchauhan123/Recipe",
-        },],
+        },
+      ],
     },
     // More projects: copy a block, set featured:false. Extra projects go into the paged "all projects" view with tag filters.
   ],
