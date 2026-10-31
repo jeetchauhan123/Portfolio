@@ -219,6 +219,44 @@ window.PORTFOLIO = {
       ],
     },
     {
+      name: "Almost There",
+      featured: true,
+      hue: 15,
+      tagline:
+        "A finite rage-bait game where you keep almost winning and the game keeps taking it away.",
+      description:
+        "Almost There is a browser-based rage-bait and ego-challenge game built around one core feeling: the more you lose, the more you want to beat it. Players move through a mix of control segments, instruction traps, and hybrid challenges filled with rule changes, fake victories, proximity hazards, and a narrator that stays in full prank mode from the first second until it is finally forced to accept defeat.",
+      highlights: [
+        "Mix of platforming control segments and instruction-based traps that constantly shift the rules.",
+        "Hybrid progress system with clear segment clears and fragile checkpoints that disappear if you quit.",
+        "Proximity-triggered spikes, fake vs real collapsing platforms, inverted controls, and reverse gravity.",
+        "Dynamic instruction challenges with changing button colors, contradictory rules, and fake victory screens.",
+        "Full pause system with automatic pause when switching tabs or apps.",
+        "High replay variety through randomized segment order, lies, and mechanics.",
+        "A real ending where the narrator is forced to admit defeat.",
+      ],
+      tags: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Canvas",
+        "Game Design",
+        "Player Psychology",
+        "AI-Assisted Development",
+        "Vibe Coding",
+      ],
+      links: [
+        {
+          label: "Play Game",
+          url: "https://almost-there-jet.vercel.app/",
+        },
+        {
+          label: "GitHub",
+          url: "https://github.com/jeetchauhan123/Almost-There",
+        },
+      ],
+    },
+    {
       name: "Velvet Pour",
       featured: false,
       hue: 20,
