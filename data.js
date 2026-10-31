@@ -584,7 +584,7 @@ window.PORTFOLIO = {
       title: "Applied Cloud Computing",
       issuer: "Microsoft & Edunet",
       kind: "Certification",
-      year: "",
+      year: "2024",
       links: [{ label: "View certificate", url: "media/cloud_computing.pdf" }],
     },
     {
@@ -598,7 +598,7 @@ window.PORTFOLIO = {
       title: "Vibe Coding: Build Faster with AI",
       issuer: "Lets Upgrade",
       kind: "Certification",
-      year: "",
+      year: "2026",
       links: [
         { label: "View certificate", url: "media/Vibe_Coding_letsupgrade.pdf" },
       ],
@@ -607,7 +607,7 @@ window.PORTFOLIO = {
       title: "Roadmap to Data Scientist",
       issuer: "Coding Ninjas",
       kind: "Certification",
-      year: "",
+      year: "2026",
       links: [
         {
           label: "View certificate",
@@ -619,7 +619,7 @@ window.PORTFOLIO = {
       title: "JavaScript Bootcamp",
       issuer: "Lets Upgrade",
       kind: "Certification",
-      year: "",
+      year: "2026",
       links: [
         { label: "View certificate", url: "media/JS_Bootcamp_letsupgrade.pdf" },
       ],
@@ -628,7 +628,7 @@ window.PORTFOLIO = {
       title: "Data Science using Python",
       issuer: "SCALER MASTERCLASS",
       kind: "Certification",
-      year: "",
+      year: "2026",
       links: [
         { label: "View certificate", url: "media/Data_Science_scaler.png" },
       ],
@@ -637,7 +637,7 @@ window.PORTFOLIO = {
       title: "Build a Multi-Role Super Agent",
       issuer: "Simplilearn",
       kind: "Certification",
-      year: "",
+      year: "2026",
       links: [
         { label: "View certificate", url: "media/Super_Agent_Simplilearn.pdf" },
       ],
@@ -646,9 +646,18 @@ window.PORTFOLIO = {
       title: "Claude AI",
       issuer: "Skill Nation",
       kind: "Certification",
-      year: "",
+      year: "2026",
       links: [
         { label: "View certificate", url: "media/Claude_AI_SkillNation.pdf" },
+      ],
+    },
+    {
+      title: "Code with AI",
+      issuer: "TOPS Technologies",
+      kind: "Certification",
+      year: "2026",
+      links: [
+        { label: "View certificate", url: "media/Code_with_AI_TOPS.pdf" },
       ],
     },
     // { title: "Name", issuer: "Issuer", kind: "Certification", year: "2025", links: [{ label: "View certificate", url: "media/file.pdf" }] },
