@@ -220,7 +220,7 @@ window.PORTFOLIO = {
     },
     {
       name: "Almost There",
-      featured: true,
+      featured: false,
       hue: 15,
       tagline:
         "A finite rage-bait game where you keep almost winning and the game keeps taking it away.",
